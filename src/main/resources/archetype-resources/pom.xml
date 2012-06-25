@@ -4,7 +4,7 @@
     <groupId>${groupId}</groupId>
     <artifactId>${artifactId}</artifactId>
     <version>${version}</version>
-    <name>${artifactId}/name>
+    <name>${artifactId}</name>
     <url>http://www.agmip.org/</url>
 
     <parent>
