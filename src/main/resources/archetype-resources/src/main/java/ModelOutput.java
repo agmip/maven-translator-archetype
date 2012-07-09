@@ -2,7 +2,7 @@ package ${package};
 
 import java.io.File;
 import java.io.IOException;
-import java.io.LinkedHashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 import org.agmip.core.types.TranslatorOutput;
